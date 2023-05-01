@@ -1,0 +1,93 @@
+#body1
+{
+    background-image: url("images\\размытый код.jpg");
+    color: white;
+    font-size: 40px;
+}
+
+.underlined
+{
+    text-decoration: white solid underline;
+}
+
+#div1
+{
+    font-size: 60px;
+    font-family: "raleway";
+    text-decoration: solid underline;
+    text-align: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+#div2
+{
+    font-family: "raleway";
+    padding:20px;
+}
+
+#CPP
+{
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-width: 30px;
+    border-style: solid;
+    border-radius: 120px;
+    margin: 30px;
+    padding-top: 90px;
+    padding-left: 90px;
+    padding-right: 260px;
+    padding-bottom: 260px;
+    align-items: center;
+    border-color: white;
+    background-image: url("CPP/C++.png");
+    background-size: cover;
+    position: absolute;
+    top: 250px;
+    left: 10px;
+}
+
+#py
+{
+    width: 100px;
+    height: 100px;
+    border-width: 30px;
+    border-style: solid;
+    border-radius: 120px;
+    margin: 30px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 270px;
+    padding-bottom: 270px;
+    border-color: white;
+    background-image: url("python/python.png");
+    background-size: cover;
+    position: absolute;
+    align-items: center;
+    top: 250px;
+    left: 585px;
+}
+
+#pas
+{
+    width: 100px;
+    height: 100px;
+    border-width: 30px;
+    border-style: solid;
+    border-radius: 120px;
+    margin: 30px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 270px;
+    padding-bottom: 270px;
+    border-color: white;
+    background-image: url("pascal/pascal.png");
+    background-size: cover;
+    position: absolute;
+    align-items: center;
+    top: 250px;
+    left: 1160px;
+}
